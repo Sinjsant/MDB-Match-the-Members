@@ -2,7 +2,10 @@
 Mini Project 1 created for MDB's Spring 2019 iOS Training Program. A simple trivia game designed to teach the names of members to new recruits. You have 5 seconds to put a name to a face, or else you're a terrible person!
 
 <span>
+<div style="display: inline-block">
+  Test
 <img src="https://i.imgur.com/1JqlQxi.png" width="250">
+  </div>
 <img src="https://i.imgur.com/m6Qmfwn.png" width="250">
 <img src="https://i.imgur.com/TKhPlB8.png" width="250">
 </span>
