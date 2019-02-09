@@ -3,6 +3,12 @@ Mini Project 1 created for MDB's Spring 2019 iOS Training Program. A simple triv
 
 <span>
 <img src="https://i.imgur.com/1JqlQxi.png" width="250">
+  Home screen
 <img src="https://i.imgur.com/m6Qmfwn.png" width="250">
+  Main game
 <img src="https://i.imgur.com/TKhPlB8.png" width="250">
+  Statistics modal
 </span>
+
+
+
