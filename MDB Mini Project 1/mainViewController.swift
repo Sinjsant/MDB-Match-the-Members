@@ -186,12 +186,6 @@ class mainViewController: UIViewController {
         if name == memberName {
             currentScore += 1
             scoreEntry.text = "\((Int(scoreEntry.text!)! + 1))"
-            for i in 0...3 {
-                let button = buttonArray[i]!
-                if button != sender {
-                    button.backgroundColor = UIColor(red: 226/255, green: 157/255, blue: 180/255, alpha: 0.75)
-                }
-            }
             sender.backgroundColor = UIColor(red: 114/255, green: 198/255, blue: 152/255, alpha: 0.75)
             sender.setTitleColor(UIColor.white, for: .normal)
         } else {
