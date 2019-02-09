@@ -46,7 +46,7 @@ class statsViewController: UIViewController {
         
         view.addSubview(statsLabel)
         
-        bestScoreLabel = UILabel(frame: CGRect(x: 0, y: 0, width: 300, height: 30))
+        bestScoreLabel = UILabel(frame: CGRect(x: 0, y: 0, width: 300, height: 40))
         bestScoreLabel.center = CGPoint(x: statsLabel.center.x, y: statsLabel.frame.maxY + 100)
         bestScoreLabel.textAlignment = .center
         bestScoreLabel.text = "Longest Streak: \(bestScore)"
